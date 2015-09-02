@@ -3,7 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.mastfrog</groupId>
-        <version>1.6.3-netty-5</version>
+<<<<<<< HEAD
+        <version>1.6.2-netty-5</version>
+=======
+        <version>1.6.3</version>
+>>>>>>> master
         <artifactId>mastfrog-parent</artifactId>
         <relativePath/>
     </parent>
